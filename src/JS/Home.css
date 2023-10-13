@@ -1,0 +1,17 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+}
+#t1{
+    padding: 20;
+    border-radius: 5%;
+    border-style: inherit;
+    border-collapse: inherit;
+    
+    align-content: center;
+}
+#m{
+    font-weight: bold;
+    color: seagreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
